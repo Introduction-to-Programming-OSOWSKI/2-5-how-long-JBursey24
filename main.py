@@ -1,2 +1,2 @@
-def howLong(x):
-  print(len(x))
+def howLong(w):
+        print(len(w))
