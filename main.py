@@ -1,1 +1,3 @@
-#WRITE YOUR CODE IN THIS FILE
+def howLong(word):
+    for i in range(0,len(word)):
+        print(i)
